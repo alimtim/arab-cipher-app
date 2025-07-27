@@ -1,7 +1,7 @@
 {
   "name": "Arabic Code Ciphering",
   "short_name": "Arabic Cipher",
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#2c3e50",
   "theme_color": "#2c3e50",
